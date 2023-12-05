@@ -11,7 +11,7 @@ This is a Discord bot that can roast users based on their messages or images.
 ### Setup 
 
 1. Clone the repository. 
-2. Install the required dependencies by running `npm install`. 
+2. Install the required dependencies by running `npm install openai discordjs`. 
 3. Add your Discord bot token, and OpenAI API key to it. 
 4. Run the bot by running `node index.js`. 
 
